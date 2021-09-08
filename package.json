@@ -1,0 +1,19 @@
+{
+  "name": "prime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomaszslivva/prime.git"
+  },
+  "author": "Tomasz Sliwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomaszslivva/prime/issues"
+  },
+  "homepage": "https://github.com/tomaszslivva/prime#readme"
+}
